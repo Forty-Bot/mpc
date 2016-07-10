@@ -1,6 +1,8 @@
 *~
 *.exe
 *.dSYM
+*.sw?
+tags
 test
 examples/doge
 examples/lispy
